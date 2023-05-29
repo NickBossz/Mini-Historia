@@ -1,4 +1,4 @@
-import PersonagemPrincipal
+from Personagem import PersonagemPrincipal
 from time import sleep
 
 def Banco():
