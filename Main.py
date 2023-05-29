@@ -1,9 +1,6 @@
 from time import sleep
-import Banco
-import LojaCarros
-import Padaria
-import PersonagemPrincipal
-import Casa
+from Lugares import Banco, Casa, LojaCarros, Padaria
+from Personagem import PersonagemPrincipal
 
 print("Bem vindo ao universo Macopão!")
 sleep(2.5)
