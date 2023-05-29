@@ -1,5 +1,5 @@
-import PersonagemPrincipal
-import Casa
+from Personagem import PersonagemPrincipal
+from Lugares import Casa
 from time import sleep
 
 NomeVendedorCarro = "Paulo Pietro Gomes"

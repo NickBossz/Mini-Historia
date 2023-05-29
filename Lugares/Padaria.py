@@ -1,6 +1,6 @@
 from time import sleep
-import PersonagemPrincipal
-import Casa
+from Personagem import PersonagemPrincipal
+from Lugares import Casa
 
 NomeVendedorPao = "Jilson Pereira"
 
